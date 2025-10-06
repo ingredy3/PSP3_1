@@ -100,7 +100,7 @@ O dataset utilizado foi **[Car Prices Dataset (Kaggle)]([https://www.kaggle.com/
 
 ---
 
-# Distrinchando o código
+# Destrinchando o código
 
 ## 📌 Passo 1 – Importar bibliotecas
 
