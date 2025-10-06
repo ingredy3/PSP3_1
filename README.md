@@ -96,6 +96,7 @@ O dataset utilizado foi **[Car Prices Dataset (Kaggle)]([https://www.kaggle.com/
 - A hipótese foi confirmada: carros mais novos e com menor quilometragem realmente tendem a ter preços mais altos.  
 - O modelo **Random Forest** apresentou melhor desempenho entre os testados.  
 - A análise mostrou coerência com o mercado automotivo real.  
+-Isso confirma a hipótese: **carros mais novos e menos rodados valem mais**.
 
 ---
 
@@ -535,15 +536,4 @@ Ajuda a interpretar o modelo e validar se ele aprendeu algo coerente com a reali
 
 ---
 
-# ✅ Conclusão
-
-* O modelo Random Forest apresentou o melhor desempenho.
-* Principais variáveis: idade do carro, quilometragem e marca/modelo.
-* Métricas finais (teste):
-
-  * **MAE ≈ R$ 2.892**
-  * **RMSE ≈ R$ 4.678**
-  * **R² ≈ 0.75**
-
-Isso confirma a hipótese: **carros mais novos e menos rodados valem mais**.
 
