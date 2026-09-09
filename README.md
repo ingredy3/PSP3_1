@@ -1,4 +1,4 @@
-# 🚗 MVP - Sistema de Suporte à Decisão: Previsão de Preço de Veículos Usados
+# 🚗 MVP - PSP3: Previsão de Preço de Veículos Usados
 
 ## 📖 Definição do Problema
 O mercado de veículos usados possui alta variação de preços, influenciada por fatores como ano, marca, modelo, quilometragem, estado de conservação e localização.  
